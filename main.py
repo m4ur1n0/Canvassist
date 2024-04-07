@@ -17,7 +17,7 @@ parse_assignments.get_all_assignments_from_all_courses(api_token=api_token, doma
 assignment_ids = []
 with open("json_out/assignment_ids_to_info.json", "r") as f:
     assignment_ids = list(json.load(f).keys())
-``
+
 for id in assignment_ids:
     gpt_conduit.get_json_from_assignment_id(id)
 
