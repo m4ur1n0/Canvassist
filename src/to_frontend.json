@@ -1,0 +1,242 @@
+{
+    "0": {
+        "assignment_name": "Project 01",
+        "course_name": "2024SP_COMP_SCI_310-0_SEC1 Scalable Software Architectures",
+        "due_date": "Apr 10, 23:59",
+        "time_estimate": "8.0 hrs, 0 mins",
+        "points": 100.0,
+        "steps": [
+            "Carefully review all 25 pages of the handout for Part 01, focusing on the configuration steps for setting up RDS and S3 in AWS",
+            "Check for any discrepancies or significant differences between the screenshots in the handout and the current AWS interface",
+            "Seek clarification on any steps that are unclear or where you are unsure of what to do",
+            "Complete the AWS setup for Part 01 by following the configuration steps provided in the handout",
+            "Ensure that the server-side components (RDS and S3) are properly configured and functioning as intended before moving on to Part 02",
+            "Review the details provided in the handout for Part 02, which focus on client-side development with Python using the boto library",
+            "Build a Python client to interact with RDS and S3 as outlined in the handout for Part 02",
+            "Test the functionality of the Python client to ensure it can successfully interact with RDS and S3",
+            "Submit Parts 01 and 02 by the specified deadline of Wednesday April 10th, with the option for late submissions accepted until Friday April 12th"
+        ],
+        "links": {
+            "AWS Documentation": "https://docs.aws.amazon.com/",
+            "AWS RDS Documentation": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.PostgreSQL.html",
+            "AWS S3 Documentation": "https://docs.aws.amazon.com/AmazonS3/latest/user-guide/create-bucket.html",
+            "Python Boto Documentation": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"
+        }
+    },
+    "1": {
+        "assignment_name": "PS1: The Relational Model",
+        "course_name": "2024SP_COMP_SCI_339-0_SEC1 Introduction to Database Systems",
+        "due_date": "Apr 08, 23:59",
+        "time_estimate": "2.0 hrs, 0 mins",
+        "points": 10.0,
+        "steps": [
+            "Read through the assignment description carefully to fully understand the requirements and expectations",
+            "Break down the assignment into manageable tasks and create a timeline for completion",
+            "Start by reviewing any relevant course material and notes to refresh your understanding of the concepts needed for the assignment",
+            "Work on each task systematically, ensuring each step is completed accurately before moving on to the next",
+            "Proofread and review your work to check for any errors or inconsistencies before submitting the assignment"
+        ],
+        "links": {
+            "Assignment Resources": {
+                "CS339 Lab Partners": "https://www.exampleLabPartners.com",
+                "CS339 Lecture Videos": "https://www.exampleLectureVideos.com",
+                "CS339 Discussion Forum": "https://www.exampleDiscussionForum.com"
+            }
+        }
+    },
+    "2": {
+        "assignment_name": "Descartes 3",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 09, 11:00",
+        "time_estimate": "2.0 hrs, 0 mins",
+        "points": 5.0,
+        "steps": [
+            "Read and summarize Descartes' Fifth and Sixth Meditation",
+            "Examine Descartes' arguments on the distinction between mind and body",
+            "Analyze Descartes' reasoning behind the mind-body dualism",
+            "Study the Correspondence between Descartes and Elizabeth",
+            "Read Galileo's The Assayer and focus on the concept of Corpuscularianism",
+            "Compare and contrast Descartes' and Galileo's views on the mind-body relationship",
+            "Formulate a cohesive argument on how Descartes proves the distinction between mind and body"
+        ],
+        "links": {}
+    },
+    "3": {
+        "assignment_name": "Assignment 1 : Search",
+        "course_name": "2024SP_COMP_SCI_348-0_SEC1 Introduction to Artificial Intelligence",
+        "due_date": "Apr 10, 23:59",
+        "time_estimate": "2.0 hrs, 0 mins",
+        "points": 100.0,
+        "steps": [
+            "Carefully read the README file for assignment instructions",
+            "Submit assignment by 11:59 pm on April 10th (Wed.)",
+            "Make an additional submission by Fri Apr 12 at noon if needed, with credit loss",
+            "Follow the ratio for credit loss specified in the additional submission guidelines"
+        ],
+        "links": {
+            "Google": "https://www.google.com",
+            "Stack Overflow": "https://www.stackoverflow.com",
+            "GitHub": "https://www.github.com"
+        }
+    },
+    "4": {
+        "assignment_name": "Spinoza 1",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 11, 11:00",
+        "time_estimate": "2.0 hrs, 0 mins",
+        "points": 5.0,
+        "steps": [
+            "Read and fully understand the text 'Ethics: Part i, Definitions, Axioms, Propositions 1-20 (i, 158-68) by Baruch Spinoza'",
+            "Identify key points and arguments made by Spinoza regarding the relationship between God and the rest of existence",
+            "Analyze how Spinoza defines and conceptualizes God within his philosophical framework",
+            "Examine how Spinoza's definitions, axioms, and propositions in the text provide insights into the nature of the relationship between God and the rest of existence",
+            "Evaluate and synthesize the information gathered to form a coherent understanding of Spinoza's perspective on God's relationship to the rest of existence"
+        ],
+        "links": {
+            "Stanford Encyclopedia of Philosophy": "https://plato.stanford.edu/entries/spinoza/",
+            "Internet Encyclopedia of Philosophy": "https://www.iep.utm.edu/spinoza/",
+            "Cambridge University Press - Ethics: Part ii": "https://www.cambridge.org/core/books/spinoza-ethics/0486A87EA5BCA21F3D244DD8883895E7"
+        }
+    },
+    "5": {
+        "assignment_name": "Exam",
+        "course_name": "2024SP_COMP_SCI_310-0_SEC1 Scalable Software Architectures",
+        "due_date": "May 16, 11:00",
+        "time_estimate": "1.5 hrs, 30 mins",
+        "points": 100.0,
+        "steps": [
+            "Review all material covered in class leading up to the exam",
+            "Practice writing essays or short responses by hand to prepare for the handwritten aspect of the exam",
+            "Create flashcards or study guides to help memorize key information",
+            "Get a good night's sleep and eat a healthy breakfast before the exam",
+            "Arrive early to the exam location to ensure you have enough time to mentally prepare"
+        ],
+        "links": {
+            "Exam Study Guide": "https://www.examstudyguide.com",
+            "Handwriting Practice Sheets": "https://www.handwritingpractice.net",
+            "In-Class Exam Tips": "https://www.inclassexamtips.com"
+        }
+    },
+    "6": {
+        "assignment_name": "Final Project",
+        "course_name": "2024SP_COMP_SCI_310-0_SEC1 Scalable Software Architectures",
+        "due_date": "May 31, 23:59",
+        "time_estimate": "5.0 hrs, 0 mins",
+        "points": 100.0,
+        "steps": [
+            "Form a team with a maximum of 3 members",
+            "Wait for more details on the final project to be published",
+            "Plan the project based on the additional information provided",
+            "Divide tasks among team members efficiently",
+            "Work collaboratively to complete the final project"
+        ],
+        "links": {
+            "Team Collaboration Tool": "https://slack.com/",
+            "Project Management Tool": "https://trello.com/",
+            "Online Document Collaboration": "https://docs.google.com/",
+            "Version Control System": "https://github.com/"
+        }
+    },
+    "7": {
+        "assignment_name": "Spinoza 3",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 18, 11:00",
+        "time_estimate": "2.0 hrs, 0 mins",
+        "points": 5.0,
+        "steps": [
+            "Read Spinoza's Ethics: Part ii, Definitions, Axioms, Propositions 1-13, 35, 38-40 (i, 178-83, 192-5) thoroughly to understand his views on the relationship between mind and body.",
+            "Focus on Spinoza's arguments and explanations regarding the connection between mind and body in his work.",
+            "Analyze and interpret the specific references and examples provided by Spinoza to support his theory of the mind-body relationship.",
+            "Consider any objections or counterarguments that Spinoza addresses in relation to the mind-body problem.",
+            "Draw connections and comparisons between Spinoza's views on the mind-body relationship and other philosophical perspectives on the topic.",
+            "Formulate your own critical evaluation and interpretation of Spinoza's position on the relationship between mind and body, incorporating additional research and scholarly sources as needed."
+        ],
+        "links": {
+            "Stanford Encyclopedia of Philosophy": "https://plato.stanford.edu/entries/spinoza-ethics/",
+            "Internet Encyclopedia of Philosophy": "https://iep.utm.edu/spinoza/",
+            "Panpsychism: The Idea That Everything from Spoon to Stones are Conscious": "https://theconversation.com/panpsychism-the-idea-that-everything-from-spoons-to-stones-are-conscious-58239",
+            "Spinoza and the Jews": "https://www.jewishjournal.com/culture/article/spinoza_and_the_jews",
+            "Present-Day Jewish Philosophers Reflect on Spinoza": "https://www.youtube.com/watch?v=ph5r7jHZtes"
+        }
+    },
+    "8": {
+        "assignment_name": "Spinoza 2",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 16, 11:00",
+        "time_estimate": "1.5 hrs, 30 mins",
+        "points": 5.0,
+        "steps": [
+            "Read Spinoza's Ethics: Part i, Propositions 21-36 and Appendix (i, 169-78)",
+            "Read V.F. Cordova's How It Is, specifically the chapter 'Usen: The Unidentifiable Is'",
+            "Analyze the arguments presented by Spinoza and Cordova regarding the question of whether God freely chooses to create the world",
+            "Consider any similarities or differences between the perspectives of Spinoza and Cordova",
+            "Formulate your own conclusion based on the readings and analysis conducted",
+            "Write a comprehensive response to the question 'Does God freely choose to create the world?' incorporating insights from Spinoza and Cordova"
+        ],
+        "links": {
+            "Spinoza, Ethics": "https://plato.stanford.edu/entries/spinoza-ethics/",
+            "V.F. Cordova": "https://www.poetryfoundation.org/poetrymagazine/browse?contentId=66276",
+            "God and Creation": "https://www.iep.utm.edu/divine-fr/#H4"
+        }
+    },
+    "9": {
+        "assignment_name": "Leibniz 1",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 25, 11:00",
+        "time_estimate": "1.5 hrs, 30 mins",
+        "points": 5.0,
+        "steps": [
+            "Read and understand the text 'Gottfried Wilhelm Leibniz, Discourse on Metaphysics: 1-17, 33\u20137 (i, 234-45, 254\u20137)'",
+            "Identify key passages that specifically address the notion of an individual substance",
+            "Analyze the arguments and explanations provided by Leibniz regarding individual substances",
+            "Summarize the definition and characteristics of an individual substance as presented in the text",
+            "Reflect on the implications and significance of the notion of an individual substance in metaphysics"
+        ],
+        "links": {
+            "Stanford Encyclopedia of Philosophy": "https://plato.stanford.edu/entries/leibniz/",
+            "Internet Encyclopedia of Philosophy": "https://iep.utm.edu/leib-meta/",
+            "Britannica": "https://www.britannica.com/biography/Gottfried-Wilhelm-Leibniz",
+            "SEP: Substance": "https://plato.stanford.edu/entries/substance/"
+        }
+    },
+    "10": {
+        "assignment_name": "Malebranche",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 23, 11:00",
+        "time_estimate": "1.0 hrs, 0 mins",
+        "points": 5.0,
+        "steps": [
+            "Read Nicolas Malebranche's Search after Truth: iii.ii.6 (i, 220-2)",
+            "Analyze the concept of occasional causes and their relationship to real causes in the text",
+            "Identify key arguments and evidence presented by Malebranche on occasional causes",
+            "Evaluate whether occasional causes can be considered as real causes based on Malebranche's arguments",
+            "Formulate a personal interpretation and conclusion on the nature of occasional causes as real causes"
+        ],
+        "links": {
+            "Stanford Encyclopedia of Philosophy": "https://plato.stanford.edu/entries/malebranche/",
+            "Internet Encyclopedia of Philosophy": "https://iep.utm.edu/malebranche/"
+        }
+    },
+    "11": {
+        "assignment_name": "Leibniz 2",
+        "course_name": "2024SP_PHIL_210-3_SEC20 History of Philosophy - Early Modern",
+        "due_date": "Apr 30, 11:00",
+        "time_estimate": "1.5 hrs, 30 mins",
+        "points": 0.0,
+        "steps": [
+            "Read Leibniz's 'The Principles of Philosophy, or, the Monadology' (pages 285-293)",
+            "Read Leibniz's Third & Fourth Letters to Clarke (pages 307-313)",
+            "Read the article by J.E.H. Smith on Leibniz and the Internet",
+            "Prepare notes on the key points and arguments in the readings",
+            "Draft an outline for a summary or analysis of the readings",
+            "Write a coherent and well-structured response to the readings",
+            "Proofread and revise the response for clarity and coherence",
+            "Submit the assignment on time"
+        ],
+        "links": {
+            "Leibniz, The Principles of Philosophy, or, the Monadology (i, 285-93)": "http://www.earlymoderntexts.com/pdf/leibprin.pdf",
+            "Third & Fourth Letters to Clarke (i, 307-13)": "https://www.earlymoderntexts.com/docs/leibniz-clarke.pdf",
+            "Article by J.E.H. Smith on Leibniz and the Internet": "https://www.cambridge.org/core/books/monads-and-ontology/neither-nor-leibniz-and-spinozism/D263864F7A744B7D153DB5E2727AA050"
+        }
+    }
+}

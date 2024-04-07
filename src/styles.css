@@ -1,0 +1,139 @@
+/* styles.css */
+.header {
+  text-align: center;
+  background-color: #287A9F; /* Background color */
+  color: white; /* Text color */
+  padding: 20px; /* Add padding for spacing */
+}
+
+.header h1 {
+  font-size: 24px; /* Adjust font size */
+}
+
+#userName {
+  font-weight: bold; /* Make the username bold */
+}
+
+
+.container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #262626;
+}
+
+.assignments-container {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+}
+
+.assignments-box {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.assignment-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.assignment-checkbox {
+  margin-right: 10px;
+  transform: scale(1.2); /* Adjust the scale to make the checkbox slightly larger */
+}
+
+.assignment-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #262626;
+  border: 3px solid;
+  border-color: #287A9F;
+  border-radius: 5px;
+  width: 100%; /* Adjust the width of the assignment box */
+  position: relative;
+}
+
+.assignment-button:hover {
+  background-color: #1d1d1d; /* Darkened color */
+}
+
+
+.display {
+  display: inline-block;
+}
+
+.completed {
+  background-color: #4CAF50; /* Green background color */
+  color: white; /* Text color */
+}
+
+.assignment-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #262626;
+  border: 3px solid;
+  border-color: #287A9F;
+  border-radius: 5px;
+  width: 100%;
+  position: relative;
+}
+
+.name {
+  font-size: 1.875em;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.course {
+  color: white;
+  font-style: italic;
+  /* flex: 1; Allow the course field to take up remaining space */
+  max-width: 60%;
+}
+
+.time-estimate {
+  color: white;
+  font-style: italic;
+  align-self: flex-start; /* Align to the start of the flex container */
+  margin-bottom: 5px; /* Add some space between time-estimate and due-date */
+  position: absolute;
+  right: 10px;`
+  bottom: 35px;
+}
+
+.due-date {
+  color: white;
+  font-style: italic;
+  align-self: flex-end; /* Align to the end of the flex container */
+  position: absolute;
+  right: 10px;
+  bottom: 20px;
+}
+
+
+.dropdown-menu {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 10px;
+  width: 100%; /* Adjust the width of the dropdown menu */
+}
