@@ -17,6 +17,7 @@ https://youtu.be/QaQvjapXwRk
 * Canvassist's frontend is written with React.js and CSS, with help from AI.
 
 **Project Devs**
+
 Benjamin Auby
 Theo Maurino
 Corbin Diaz
