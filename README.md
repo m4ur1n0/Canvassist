@@ -18,8 +18,8 @@ https://youtu.be/QaQvjapXwRk
 
 **Project Devs**
 
-Benjamin Auby
-Theo Maurino
-Corbin Diaz
-Spencer Davis
+* Benjamin Auby
+* Theo Maurino
+* Corbin Diaz
+* Spencer Davis
 
