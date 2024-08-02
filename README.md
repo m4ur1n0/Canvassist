@@ -1,4 +1,4 @@
-**Project Description**
+#Project Description**
 
 Here at Northwestern, as Spring quarter gets underway, it’s easy to get bogged down under piling assignments. That’s why we developed CanvAssist, a dynamic to-do list that takes all of your assignments from Canvas and compiles them into a streamlined, AI-assisted list of assignments. 
 
