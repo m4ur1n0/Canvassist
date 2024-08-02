@@ -14,7 +14,7 @@ https://youtu.be/QaQvjapXwRk
 
 * Canvassist uses canvas API and OpenAI's API to get information from ChatGPT and from the user's canvas page.
 * Canvassist's backend is written in Python
-* Canvassist's frontend is written with React.js and CSS, with help from AI.
+* Canvassist's frontend is written with React.js and CSS
 
 **Project Devs**
 
