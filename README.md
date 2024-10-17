@@ -8,8 +8,6 @@ We then pass the assignment description, pulled from the Canvas API, into a form
 
 With the help of CanvAssist, students can manage their time more effectively and efficiently, no matter the workload, making both stress and late assignments a thing of the past. 
 
-https://youtu.be/QaQvjapXwRk 
-
 *Technological Notes*
 
 * Canvassist uses canvas API and OpenAI's API to get information from ChatGPT and from the user's canvas page.
